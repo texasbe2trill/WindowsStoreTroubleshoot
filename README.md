@@ -1,5 +1,5 @@
 # WindowsStoreTroubleshoot
- Troubleshoot Slow Windows Store Downloads (Apps & Xbox)
+ Troubleshoot slow Windows Store downloads (Apps & Xbox)
 
 This PowerShell script attempts to troubleshoot slow Windows Store downloads for apps and Xbox (PC Version).
 
